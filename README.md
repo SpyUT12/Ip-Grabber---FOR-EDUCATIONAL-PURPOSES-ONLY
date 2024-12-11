@@ -30,5 +30,5 @@ Il tool offre le seguenti opzioni:
 
 Prima di utilizzare lo script, assicurati di avere installato il modulo `requests`. Puoi installarlo eseguendo il seguente comando:
 
-```bash
-pip install requests
+```bash```
+```pip install requests```
